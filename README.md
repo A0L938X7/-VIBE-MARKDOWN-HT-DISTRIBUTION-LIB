@@ -1,0 +1,2 @@
+# -VIBE-MARKDOWN-HT-DISTRIBUTION-LIB
+使用HTML/CSS/JS的在线MARKDOWN笔记部署程序，可上传github io，程序主体使用DEEPSEEK编写
