@@ -2,6 +2,7 @@
 使用HTML/CSS/JS的在线MARKDOWN笔记部署程序，可上传github io，程序主体使用DEEPSEEK编写
 
 ## 项目结构
+```
 /
 ├── index.html                 欢迎主页（读取 learn.xml 生成目录）
 ├── learn.html                 学习模块（读取 learn.xml + md）
@@ -19,7 +20,7 @@
 │   ├── learn.js               侧边栏树 + md 渲染 + 知识图谱 + 本页大纲
 │   └── test.js                小测渲染与评分
 ├── img/
-│   └── xxx.jpg                图片文件夹
+│   └── jiang.jpg
 ├── fonts/                     放置齐伋体字体文件（可选）
 ├── learning_notes/
 │   ├── 东北派/
@@ -55,4 +56,9 @@
 │   └── 两派对照/
 │       ├── 两派关键差异对照.md
 │       └── 选学建议与学习路径.md
-
+└── quizzes/
+    ├── quiz-ne-1.xml
+    ├── quiz-ne-2.xml
+    ├── ...
+    └── quiz-nw-9.xml
+```
