@@ -50,4 +50,4 @@
   .quiz-layout{grid-template-columns:1fr;}
   .quiz-main{padding:24px 20px 48px;}
   .score-panel{border-left:none;border-top:1px solid var(--border);}
-}
+} 
