@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site title="响马卦两大主要派系的研究与实践" author="姜玄衣">
   <catalog>
+    <note id="in-0" title="Markdown 语法指南" path="learning_notes/intro.md"
+            related="ne-2,ne-4,nw-1,cp-1"/>
     <folder name="东北派" subtitle="理气妙论">
       <note id="ne-1" title="东北响马卦的选牌与识牌" path="learning_notes/东北派/选牌与识牌.md"
             related="ne-2,ne-4,nw-1,cp-1"/>
